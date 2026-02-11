@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import Card from "../../ui/card/Card";
 import Section from "../../ui/section/Section";
 import SuccessModal from "../../ui/modal/Modal";
