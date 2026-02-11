@@ -1,0 +1,14 @@
+import React from 'react'
+import { NavLink } from "react-router-dom";
+
+const GreenButton = ({ children, to, type = 'button' }) => (
+  <NavLink
+    to={to}
+    className="inline-flex items-center justify-center rounded-2xl px-2 py-1 sm:px-5 sm:py-3 text-[14px] sm:text-[16px] 
+    font-semibold border shadow-sm hover:shadow transition focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-green-500 bg-green-700 text-white hover:bg-green-800"
+  >
+    {children}
+  </NavLink>
+);
+
+export default GreenButton

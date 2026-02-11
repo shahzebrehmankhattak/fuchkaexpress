@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.76950e67.css",
+    "main.js": "/static/js/main.301be756.js",
+    "static/js/453.2a3f1d77.chunk.js": "/static/js/453.2a3f1d77.chunk.js",
+    "static/media/community.svg": "/static/media/community.ce06612249dd8245bd35dec9565da6d8.svg",
+    "static/media/wedding.svg": "/static/media/wedding.d43a58893a332559c83ddfad0d6445ec.svg",
+    "static/media/AboutUS.svg": "/static/media/AboutUS.065121e977866f62c1de7207362eb6f7.svg",
+    "static/media/Jhaal Muri.svg": "/static/media/Jhaal Muri.cf8c65185a84a9482977d83deef05303.svg",
+    "static/media/Momos.svg": "/static/media/Momos.51a3d74de3c4890a2a8fbd8e5c46c6f7.svg",
+    "static/media/Haleem.svg": "/static/media/Haleem.46672c3c787e862b26a455b7860ccaf0.svg",
+    "static/media/Tea.svg": "/static/media/Tea.40f666ee21ffaa859025081a8083c57a.svg",
+    "static/media/eid.svg": "/static/media/eid.737fe7e666ecdd7a7d2c377b5c1a739d.svg",
+    "static/media/Fuchka.svg": "/static/media/Fuchka.487baf757d53c355432691f351afb821.svg",
+    "static/media/comPic.svg": "/static/media/comPic.75866be142932f48827c4d176d43448a.svg",
+    "static/media/chotpoti.avif": "/static/media/chotpoti.0349a6dcf74fa452b91f.avif",
+    "static/media/FXLogo.png": "/static/media/FXLogo.d5dc5b402592176b24c9.png",
+    "static/media/bg.jpeg": "/static/media/bg.bb5582f58ce8aae9f0ca.jpeg",
+    "index.html": "/index.html",
+    "main.76950e67.css.map": "/static/css/main.76950e67.css.map",
+    "main.301be756.js.map": "/static/js/main.301be756.js.map",
+    "453.2a3f1d77.chunk.js.map": "/static/js/453.2a3f1d77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76950e67.css",
+    "static/js/main.301be756.js"
+  ]
+}
